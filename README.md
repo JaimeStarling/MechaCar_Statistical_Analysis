@@ -16,9 +16,12 @@ To predict one variable given another, we use linear regression. To predict one 
 
 ![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/multiple%20linear%20regression%20mpg.png)
 
-
-
 ## Summary Statistics on Suspension Coils
+
+
+
+
+
 
 ## T-Tests on Suspension Coils
 
