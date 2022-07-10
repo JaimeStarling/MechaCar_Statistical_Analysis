@@ -22,8 +22,7 @@ Data provided by the manufacturing team, found here as [Suspension_Coil.csv](Sus
 
 We first created a total_summary dataframe to find the mean, median, variance, and standard deviation of the suspension coil’s PSI across all vehicles.
 
-
-
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/total%20summary%20psi%20column.png)
 
 
 
