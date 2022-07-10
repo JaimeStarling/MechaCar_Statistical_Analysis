@@ -26,7 +26,7 @@ We first created a total_summary dataframe to find the mean, median, variance, a
 
 We then created a lot_summary dataframe to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 
-![This is an image](
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%20summary%20psi.png)
 
 
 ## T-Tests on Suspension Coils
