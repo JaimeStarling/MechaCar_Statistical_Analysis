@@ -1,5 +1,7 @@
 #Deliverable 1
 library(tidyverse)
+getwd()
+setwd("~/Desktop/R_Analysis/MechaCar_Statistical_Analysis")
 #4 Import and read in the MechaCar_mpg.csv file as a dataframe.
 df <- read.csv("MechaCar_mpg.csv", stringsAsFactors = FALSE, check.names = FALSE)
 head(df)
