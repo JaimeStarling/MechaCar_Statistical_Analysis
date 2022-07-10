@@ -7,10 +7,10 @@ Data provided by the manufacturing team, found here as [MechaCar_mpg.csv](MechaC
 - Vehicle Length
 - Vehicle Weight
 - Spoiler Angle
-- Drivetrain
 - Ground Clearance
+- Drivetrain (seen as AWD in figure below)
 
-
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/mpg%20data.png)
 
 ## Summary Statistics on Suspension Coils
 
