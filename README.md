@@ -12,7 +12,11 @@ Data provided by the manufacturing team, found here as [MechaCar_mpg.csv](MechaC
 
 ![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/mpg%20data.png)
 
-To predict one variable given another, we use linear regression.
+To predict one variable given another, we use linear regression. To predict one variable's total variance given more than one variable, we use multiple linear regression. 
+
+
+
+
 
 ## Summary Statistics on Suspension Coils
 
