@@ -14,7 +14,7 @@ Data provided by the manufacturing team, found here as [MechaCar_mpg.csv](MechaC
 
 To predict one variable given another, we use linear regression. To predict one variable's total variance given more than one variable, we use multiple linear regression. 
 
-![This is an image]([https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/multiple%20linear%20regression%20mpg.png)]
+![This is an image]([https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/multiple%20linear%20regression%20mpg.png])
 
 
 
