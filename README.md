@@ -31,4 +31,8 @@ We then created a lot_summary dataframe to group each manufacturing lot by the m
 
 ## T-Tests on Suspension Coils
 
+Having determined a population mean of 1,500 pounds per square inch, we next performed t-tests to determine if all manufacturing lots, and each lot individually, are statistically different.
+
+
+
 ## Study Design: MechaCar vs Competition
