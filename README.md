@@ -33,6 +33,10 @@ We then created a lot_summary dataframe to group each manufacturing lot by the m
 
 Having determined a population mean of 1,500 pounds per square inch, we next performed t-tests to determine if all manufacturing lots, and each lot individually, are statistically different.
 
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/all%20lots%20t%20test.png)
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%201%20subset%20t%20test.png)
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%202%20subset%20t%20test.png)
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%203%20subset%20t%20test.png)
 
 
 ## Study Design: MechaCar vs Competition
