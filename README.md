@@ -18,6 +18,9 @@ To predict one variable given another, we use linear regression. To predict one 
 
 ## Summary Statistics on Suspension Coils
 
+Data provided by the manufacturing team, found here as [Suspension_Coil.csv](Suspension_Coil.csv), cover 150 individual vehicles, 50 each from three different manufacturing lots. The weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across the three lots.
+
+
 
 
 
