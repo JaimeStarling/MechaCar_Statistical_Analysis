@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-A review of the production data, provided by the AutorsRUs manufacturing team, on the proposed MechaCar prototypes.
+A review of the production data, provided by the AutosRUs manufacturing team, on the proposed MechaCar prototypes.
 
 ## Linear Regression to Predict MPG
 Data provided by the manufacturing team, found here as [MechaCar_mpg.csv](MechaCar_mpg.csv), cover 50 prototypes, produced using multiple design specifications to identify ideal vehicle performance, determined here by MPG, or miles per gallon:
@@ -33,10 +33,18 @@ We then created a lot_summary dataframe to group each manufacturing lot by the m
 
 Having determined a population mean of 1,500 pounds per square inch, we next performed t-tests to determine if all manufacturing lots, and each lot individually, are statistically different.
 
+Of the three lots tested together, the mean was just below 1,500 pounds per square inch at 1498.78 psi. 
 ![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/all%20lots%20t%20test.png)
-![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%201%20subset%20t%20test.png)
-![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%202%20subset%20t%20test.png)
-![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%203%20subset%20t%20test.png)
 
+Tested eparately, Lot One was exactly the population mean, Lot Two was just above the population mean, and Lot Three was the mean that had lowered the overall average.
+
+Lot One
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%201%20subset%20t%20test.png)
+
+Lot Two
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%202%20subset%20t%20test.png)
+
+Lot Three
+![This is an image](https://github.com/JaimeStarling/MechaCar_Statistical_Analysis/blob/main/lot%203%20subset%20t%20test.png)
 
 ## Study Design: MechaCar vs Competition
